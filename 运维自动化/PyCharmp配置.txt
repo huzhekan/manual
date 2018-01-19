@@ -1,0 +1,4 @@
+显示工具栏：View -> Toolbar
+
+设置创建文件模板：扳手图标 -> Editor -> Code Sytle -> File and Code Templates
+
